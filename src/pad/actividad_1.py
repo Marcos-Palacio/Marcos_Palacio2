@@ -30,6 +30,3 @@ print(json.dumps(datos_json, indent=4))
 # Guardar los datos en un archivo JSON
 actividad.escribir_json(datos_json)
 
-
-
-    
