@@ -1,0 +1,61 @@
+{
+    "id": "12345",
+    "date": "2019-07-31",
+    "title": "Consumo alumbrado público 17 contratos. Periodo 26/12/18-07/02/19.",
+    "category": "supplies",
+    "sid": "3907663",
+    "src_url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=oAqfotM4rdOXQV0WE7lYPw%3D%3D",
+    "awarded_value": "4308.59",
+    "awarded_currency": "EUR",
+    "purchaser": {
+        "id": "3845",
+        "sid": null,
+        "name": null
+    },
+    "type": {
+        "id": "minor-contract",
+        "name": "Minor contract",
+        "slug": "minor-contract"
+    },
+    "notices": [
+        {
+            "id": null,
+            "sid": null,
+            "date": "2019-07-31",
+            "type": {},
+            "src_id": null,
+            "src_url": null,
+            "data": {
+                "date": "2019-07-31",
+                "type": "Anuncio de Adjudicación"
+            },
+            "sections": []
+        }
+    ],
+    "awarded": [
+        {
+            "date": "2019-03-11",
+            "suppliers_id": "33913",
+            "count": "1",
+            "value": "4308.59",
+            "suppliers_name": "IBERDROLA COMERCIALIZACIÓN DE ÚLTIMO RECURSO, S.A.U.",
+            "suppliers": [
+                {
+                    "id": "33913",
+                    "slug": "iberdrola-comercializacion-de-ultimo-recurso-s-a-u",
+                    "name": "IBERDROLA COMERCIALIZACIÓN DE ÚLTIMO RECURSO, S.A.U."
+                }
+            ],
+            "offers_count": 1,
+            "offers_count_data": {
+                "1": {
+                    "count": 1,
+                    "value": "4308.59"
+                }
+            },
+            "value_for_one": 4308.59,
+            "value_for_two": 4308.59,
+            "value_for_three": 4308.59
+        }
+    ]
+}
