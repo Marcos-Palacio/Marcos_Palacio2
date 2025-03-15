@@ -1,5 +1,6 @@
 
 import os
+import pad
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -214,4 +215,5 @@ df.to_csv(ruta_csv, index=False)
 df.to_excel(ruta_excel, index=False)
 
 print("✅ Resultados almacenados en CSV y Excel correctamente.")
+print("El paquete 'pad' está instalado y funcionando correctamente.")
 
